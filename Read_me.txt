@@ -1,11 +1,3 @@
-****************************************************
-*     Mod: Careers                      *
-* Version: 1.0.0                                     *
-*  Author: Alex Bengo - www.alexbengo.com           *
-* Contact: hi@alexbengo.com                       *
-*    Date: August 2012        *
-****************************************************
-
 REQUIREMENTS:
 =============
 Opencart Versions 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x and 1.5.5.x
@@ -47,8 +39,3 @@ INSTALLATION:
    If not using the vqmod you will need to put a link to it as described above so users can access it.
 
 8) That is all.
-
-CONTACT
-===========
-If you have trouble installing the module feel free to contact us: hi@alexbengo.com 
-       
