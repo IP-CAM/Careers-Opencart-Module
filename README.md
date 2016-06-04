@@ -21,10 +21,6 @@ COMPATIBILITY:
 ==============
 Successfully tested on OpenCart Versions 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x and 1.5.5.x with various themes and vQmod Versions 2.1.x, 2.2.x, 2.3.x (optional for footer link).
 
-LICENSE:
-=========
-THIS IS A COMMERCIAL SOFTWARE. CUSTOMER SHALL NOT: RENT, LEASE, DISTRIBUTE, SELL, OR CREATE DERIVATIVE WORKS OF THE SOFTWARE. 
-
 INSTALLATION:
 =============
 1) ALWAYS make a backup of your site before applying new mods etc. Better to be safe than sorry.
