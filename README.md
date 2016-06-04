@@ -37,7 +37,3 @@ INSTALLATION:
    If not using the vqmod you will need to put a link to it as described above so users can access it.
 
 8) That is all.
-
-CONTACT
-===========
-If you have trouble installing the module feel free to contact us: hi@alexbengo.com 
